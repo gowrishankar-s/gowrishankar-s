@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gowrishankar-s
+- 👋 Hi, I’m Gowri Shankar Sukumar! 
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning kubernetes
 
