@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gowri Shankar Sukumar! 
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning kubernetes
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gowrishankar-s)](https://git.io/streak-stats)
 
